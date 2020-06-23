@@ -1,2 +1,2 @@
-# Neural_Network_projects
+# Neural Network based Projects
 
