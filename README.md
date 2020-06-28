@@ -8,3 +8,4 @@ Completed Assignment solutions for CS231n: [Convolutional Neural Networks for Vi
 ## Image Style Transfer
 
 ## Deep photo Style Transfer
+Deep-learning approach to photographic style transfer that handles a large variety of image content while faithfully transferring the reference style.
