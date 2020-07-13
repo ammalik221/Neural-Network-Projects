@@ -26,5 +26,7 @@ Dataset contains all posts tagged AI, Machine Learning, Data Science or Aritific
 
 Dataset used - [https://www.kaggle.com/aiswaryaramachandran/medium-articles-with-content](https://www.kaggle.com/aiswaryaramachandran/medium-articles-with-content)
 
+<img src="https://github.com/ammalik221/Neural-Network-Projects/blob/master/Exploratory-Data-Analysis/download.png" width="50%" height="50%">
+
 <!--## Deep photo Style Transfer
 Deep-learning approach to photographic style transfer that handles a large variety of image content while faithfully transferring the reference style.-->
