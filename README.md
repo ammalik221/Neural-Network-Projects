@@ -2,7 +2,7 @@
 
 This repository contains Deep Learning projects as well some jupyter notebooks containing DL and ML techniques for future reference.
 
-## CS-231n
+## CS-231n (To-Do)
 Completed Assignment solutions for CS231n: [Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html), provided by Stanford.
 
 ## Image Style Transfer
